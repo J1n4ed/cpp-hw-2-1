@@ -24,20 +24,4 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="in.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
-    <Text Include="out.txt">
-      <Filter>Resource Files</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="readme.md">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include=".gitignore">
-      <Filter>Resource Files</Filter>
-    </None>
-  </ItemGroup>
 </Project>

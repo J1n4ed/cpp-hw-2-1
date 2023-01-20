@@ -132,14 +132,6 @@
   <ItemGroup>
     <ClInclude Include="arrayutils.h" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="in.txt" />
-    <Text Include="out.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include=".gitignore" />
-    <None Include="readme.md" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
